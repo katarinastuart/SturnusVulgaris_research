@@ -13,15 +13,15 @@ Preprint available at bioRiv: https://doi.org/10.1101/2021.04.07.438753
 
 **Global: divergent & parallel change**
 
-Katarina C. Stuart, William B. Sherwin, Jeremy J. Austin, Melissa Bateson, Marcel Eens, Matthew C. Brandley, Lee A. Rollins (2021). Historical museum samples enable the examination of divergent and parallel evolution during invasion. Molecular Ecology (https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353)
+Katarina C. Stuart, William B. Sherwin, Jeremy J. Austin, Melissa Bateson, Marcel Eens, Matthew C. Brandley, Lee A. Rollins (2022). Historical museum samples enable the examination of divergent and parallel evolution during invasion. Molecular Ecology (https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16353)
 
 **Genetic patterns across Australia**
 
 Katarina C. Stuart†, Adam P. A. Cardilini†, Phillip Cassey, Mark F. Richardson, William Sherwin, Lee A. Rollins*, Craig D.H. Sherman* (2021). Signatures of selection in a recent invasion reveal adaptive divergence in a highly vagile invasive species. Molecular Ecology 30 1419–1434. (https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15601). † Joint first author, * Joint last author
 
-Katarina C. Stuart, Richard J. Edwards, William B. Sherwin, Lee A. Rollins (2021). Patterns of genomic structural variation across multiple invasions. 
+Katarina C. Stuart, Richard J. Edwards, William B. Sherwin, Lee A. Rollins (2022). Patterns of genomic structural variation across multiple invasions. In prep.
 
 **Genetics, environment, & morphology**
 
-Katarina C. Stuart, William B. Sherwin, Adam P.A. Cardilini, Lee A. Rollins (2021). Genetics and plasticity are responsible for climate induced ecogeographical patterns in a recent invasion. Frontiers in Genetics Special Issue: Genomic Basis of Adaptations to New Environments in Expansive and Invasive Species (https://www.frontiersin.org/articles/10.3389/fgene.2022.824424/abstract)
+Katarina C. Stuart, William B. Sherwin, Adam P.A. Cardilini, Lee A. Rollins (2022). Genetics and plasticity are responsible for climate induced ecogeographical patterns in a recent invasion. Frontiers in Genetics Special Issue: Genomic Basis of Adaptations to New Environments in Expansive and Invasive Species (https://www.frontiersin.org/articles/10.3389/fgene.2022.824424/abstract)
 
